@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_actualizar"
+        android:title="Actualizar Registro" />
+
+    <item
+        android:id="@+id/mn_eliminar"
+        android:title="Eliminar Registro" />
+
+    <item
+        android:id="@+id/mn_buscar"
+        android:title="Buscar Registro" />
+</menu>
